@@ -33,6 +33,6 @@
 ## 📫 Contact Me
 
 - ✉️ **Email:** cairo.h.vaz@gmail.com  
-- 🔗 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/cairo-henrique-vaz-cotrim-75a986340/)
+- 🔗 **LinkedIn:** [Cairo Henrique Vaz Cotrim](https://www.linkedin.com/in/cairo-henrique-vaz-cotrim-75a986340/)
 
 ---
