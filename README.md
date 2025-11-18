@@ -1,9 +1,9 @@
 <h1 align="center">Hi there 👋 I'm <strong>Cairo Cotrim</strong></h1>
 
 <p align="center">
-  🎓 Undergraduate Physics Student @ USP • 📊 Data Science Enthusiast  
+  🎓 Undergraduate Physics Student @ USP •  Special Studies in Data Science @ USP 
   <br>
-  🎓 Special Studies in Data Science @ ICMC-USP
+  📊 Data Science Enthusiast
 </p>
 
 ---
@@ -54,7 +54,3 @@
 - 🔗 **LinkedIn:** [Clique aqui](https://www.linkedin.com/in/cairo-henrique-vaz-cotrim-75a986340/)
 
 ---
-
-<p align="center">
-  🚀 Always learning. Always building.
-</p>
