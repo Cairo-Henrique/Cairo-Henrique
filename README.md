@@ -33,8 +33,14 @@
 
 ## 📊 My GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Cairo-Henrique&show_icons=true&theme=radical" alt="Stats Card" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Cairo-Henrique&layout=compact&theme=radical" alt="Top Langs" />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=Cairo-Henrique&show_icons=true&theme=radical&count_private=true&include_all_commits=true"
+    height="165"
+  />
+  <img
+    src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=Cairo-Henrique&layout=compact&theme=radical&langs_count=8"
+    height="165"
+  />
 </p>
 
 ---
