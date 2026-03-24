@@ -8,6 +8,13 @@
 
 ---
 
+## 🎯 Career Interests & Goals
+
+I am currently seeking **Data Science** or **Quantitative Finance** internship opportunities where I can apply my background in Physics, Statistics, Computing, and Finance to solve complex real-world problems. 
+*   **Location:** Open to on-site roles in the state of **São Paulo (Brazil)** or **Remote** roles globally.
+
+---
+
 ## 🛠️ Tech Stack
 
 ### **Languages**
@@ -29,6 +36,12 @@
   <img src="https://img.shields.io/badge/NetworkX-2C5AA0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
 </p>
+
+## 📈 GitHub Stats
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=Cairo-Henrique&theme=radium&hide_border=true" alt="GitHub Streak" />
+</div>
 
 ---
 
