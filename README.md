@@ -8,7 +8,7 @@
 
 ---
 
-## 🎯 Career Interests & Goals
+## 🎯 Career Interests
 
 I am currently seeking **Data Science** or **Quantitative Finance** internship opportunities where I can apply my background in Physics, Statistics, Computing, and Finance to solve complex real-world problems. 
 *   **Location:** Open to on-site roles in the state of **São Paulo (Brazil)** or **Remote** roles globally.
