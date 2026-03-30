@@ -37,6 +37,8 @@ I am currently seeking **Data Science** or **Quantitative Finance** internship o
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
 </p>
 
+---
+
 ## 📈 GitHub Stats
 
 <div align="center">
