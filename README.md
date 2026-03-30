@@ -56,7 +56,7 @@ I am currently seeking **Data Science** or **Quantitative Finance** internship o
     <img src="https://img.icons8.com/color/48/gmail-new.png" alt="Email" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/cairo-henrique-vaz-cotrim-75a986340/">
+  <a href="https://www.linkedin.com/in/cairo-cotrim-75a986340/">
     <img src="https://img.icons8.com/color/48/linkedin.png" alt="LinkedIn" />
   </a>
 </p>
