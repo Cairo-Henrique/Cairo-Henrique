@@ -42,7 +42,7 @@ I am currently seeking **Data Science** or **Quantitative Finance** internship o
 ## 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=Cairo-Henrique&theme=radium&hide_border=true" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=Cairo-Henrique&theme=dracula&hide_border=true" alt="GitHub Streak" />
 </div>
 
 <div align="center">
