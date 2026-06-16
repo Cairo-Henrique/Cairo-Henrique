@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋 I'm <strong>Cairo Cotrim</strong></h1>
+<h1 align="center">Hi there 👋 I'm <strong>Cairo Henrique Vaz Cotrim</strong></h1>
 
 <p align="center">
   🎓 Undergraduate Physics Student @ USP •  Special Studies in Data Science @ USP 
   <br>
-  📊 Data Science and Machine Learning Enthusiast
+  📊 Data Science and Machine Learning enthusiast
 </p>
 
 ---
@@ -21,6 +21,7 @@ I am currently seeking **Data Science** or **Quantitative Finance** internship o
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Fortran-%23734F96.svg?style=for-the-badge&logo=fortran&logoColor=white" alt="Fortran Badge" />
   <img src="https://img.shields.io/badge/Julia-9558B2?style=for-the-badge&logo=julia&logoColor=white"/>
   <img src="https://img.shields.io/badge/LaTeX-008080?style=for-the-badge&logo=latex&logoColor=white"/>
   <br>
