@@ -27,7 +27,7 @@ I am currently seeking **Data Science** or **Quantitative Finance** internship o
   <br>
 </p>
 
-### **ML & Data**
+### **Libraries**
 <p>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
   <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
@@ -35,8 +35,29 @@ I am currently seeking **Data Science** or **Quantitative Finance** internship o
   <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=plotly&logoColor=white"/>
   <img src="https://img.shields.io/badge/NetworkX-2C5AA0?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/YFinance-2C5AA0?style=for-the-badge&logo=python&logoColor=white"/>
   <img src="https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white"/>
 </p>
+
+### Libraries
+
+#### Machine Learning
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://github.com/pytorch/pytorch)
+[![Scikit-Learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://github.com/scikit-learn/scikit-learn)
+
+#### Data Analysis
+[![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/pandas-dev/pandas)
+[![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/numpy/numpy)
+[![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://github.com/matplotlib/matplotlib)
+[![NetworkX](https://img.shields.io/badge/NetworkX-2C5AA0?style=for-the-badge)](https://github.com/networkx/networkx)
+
+#### Finance
+[![YFinance](https://img.shields.io/badge/YFinance-2C5AA0?style=for-the-badge)](https://github.com/ranaroussi/yfinance)
+[![PyPortfolioOpt](https://img.shields.io/badge/PyPortfolioOpt-0A66C2?style=for-the-badge)](https://github.com/robertmartin8/PyPortfolioOpt)
+
+#### Quantum Computing
+[![Qiskit](https://img.shields.io/badge/Qiskit-6929C4?style=for-the-badge&logo=qiskit&logoColor=white)](https://github.com/Qiskit/qiskit)
+[![PennyLane](https://img.shields.io/badge/PennyLane-19B5FE?style=for-the-badge)](https://github.com/PennyLaneAI/pennylane)
 
 ---
 
