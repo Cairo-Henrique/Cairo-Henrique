@@ -36,6 +36,7 @@ I am currently seeking **Data Science** or **Quantitative Finance** internship o
 #### Data Analysis
 [![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)](https://github.com/pandas-dev/pandas)
 [![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)](https://github.com/numpy/numpy)
+[![SciPy](https://img.shields.io/badge/SciPy-8CAAE6?style=for-the-badge&logo=scipy&logoColor=white)](https://github.com/scipy/scipy)
 [![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge)](https://github.com/matplotlib/matplotlib)
 [![NetworkX](https://img.shields.io/badge/NetworkX-2C5AA0?style=for-the-badge)](https://github.com/networkx/networkx)
 
